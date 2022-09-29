@@ -11,4 +11,5 @@ while (howMany > howManyEntered):
     howManyEntered = 1 + howManyEntered
 #calculates average
 average = float(total)/float(howMany)
-print(float(average))
+print("The average of the test scores is: ", float(average))
+
